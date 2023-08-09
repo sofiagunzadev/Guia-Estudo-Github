@@ -2,8 +2,11 @@
 Organizando a lista de comandos Git e Github
 
 1- git config
+
 2- git init
+
 3- git add
+
 4- git branch
 5- git checkout
 6- git clean
@@ -14,4 +17,5 @@ Organizando a lista de comandos Git e Github
 11- git pull
 12- git log
 13- git push
-14- git rebase...
+=======
+
